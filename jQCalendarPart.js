@@ -6,7 +6,7 @@
   
   <script type="text/javascript">
 
-   JSRequest.EnsureSetup()
+   JSRequest.EnsureSetup();
    
    var today = new Date();
    var currDate = new Date();
